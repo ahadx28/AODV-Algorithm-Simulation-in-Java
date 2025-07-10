@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AODV Alogirithm:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AODV_Alogirithm_jar</output-path>
+    <root id="archive" name="AODV Alogirithm.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/resources/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="AODV Alogirithm" />
+    </root>
+  </artifact>
+</component>
